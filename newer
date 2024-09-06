@@ -7,3 +7,4 @@ cout << "Hi \n";
 int x;
 cin >> x;
 }
+./a.out
